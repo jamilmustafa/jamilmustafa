@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamilmustafa
-- 🌱 I’m currently learning Spring Framework
+- 🌱 I’m currently working/learning Spring Framework
 - 📫 How to reach me : wxyjamil@gmail.com
 
 <!---
